@@ -3,7 +3,7 @@ description: Blog for Atriva Media
 author: Wesley L.
 logo: ./images/atriva-icon.png #/hcz-jekyll-blog/static/img/avatar.png
 github: #https://github.com/ashutosh2k12
-about: Atriva Media - Ultimate Media Solution 
+about: Atriva Media - Media Cloud Service for Family Media
 
 baseurl: "http://blog.atrivamedia.com" # "http://aboutashu.com/hcz-jekyll-blog"
 url: "http://blog.atrivamedia.com" # "http://aboutashu.com/hcz-jekyll-blog"
@@ -12,7 +12,7 @@ disqus_shortname: #aboutashu
 google_analytics: #UA-72862926-1
 
 share:
-  twitter_username: \#
+  twitter_username: atrivamedia #\
   fb_appid: 000000000000
 
 
