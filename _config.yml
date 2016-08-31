@@ -1,15 +1,15 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Atriva Media Blog
+description: Blog for Atriva Media
+author: Wesley L.
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+github: #https://github.com/ashutosh2k12
+about: Atriva Media - Ultimate Media Solution 
 
-baseurl: "http://aboutashu.com/hcz-jekyll-blog"
-url: "http://aboutashu.com/hcz-jekyll-blog"
+baseurl: "http://blog.atrivamedia.com" # "http://aboutashu.com/hcz-jekyll-blog"
+url: "http://blog.atrivamedia.com" # "http://aboutashu.com/hcz-jekyll-blog"
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: #aboutashu
+google_analytics: #UA-72862926-1
 
 share:
   twitter_username: \#
